@@ -1,0 +1,6 @@
+{
+  "name": "Advanced Coding Studio (ACS)",
+  "description": "Standalone AI-powered software development studio with PostgreSQL persistence, Firebase Auth, isolated sandbox execution, live preview, and multi-agent code review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
